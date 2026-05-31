@@ -22,7 +22,7 @@
 
 <h2 align="center">🔥 Coding Streak</h2>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=learnerabhinavdwivedi-droid&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnerabhinavdwivedi-droid&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
