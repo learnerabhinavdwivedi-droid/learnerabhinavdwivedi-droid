@@ -8,10 +8,10 @@ on:
   # Allow manual triggering of the workflow
   workflow_dispatch:
 
-  # Trigger the workflow on pushes to the main branch
+  # Trigger the workflow on pushes to the mainss branch
   push:
     branches:
-      - main
+      - mainss
 
 jobs:
   generate:
