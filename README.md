@@ -12,7 +12,8 @@
         </p>
       </td>
       <td width="35%" align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM2MjJoazRzaXBpZG1oZWtud3V3dTQ0OWIycjA1N3Bib3Z1ZHNjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif" width="100%"/>
+        <img src="<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/72bc4b46-063b-4d3a-b7e5-07031d1b44da" />
+" width="100%"/>
       </td>
     </tr>
   </table>
